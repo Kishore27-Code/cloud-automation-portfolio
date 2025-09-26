@@ -28,6 +28,20 @@ This repository serves as my **cloud automation practice portfolio**. It contain
 - Dockerized sample Python applications
 - Automating repetitive tasks using Python and cloud APIs
 
+## Module 0 — Quick Setup Status
+**Goal:** Get accounts & tools ready to practice anytime.
+
+| Task | Status |
+|------|--------|
+| Create AWS free-tier account | ✅ Done |
+| Configure AWS Budgets & SNS alerts | ✅ Done |
+| Create GitHub repo (`cloud-automation-portfolio`) | ✅ Done |
+| Install Terraform, Docker, Python, Git locally | ✅ Done |
+| Initialize README.md locally | ⬜ Optional if editing directly on GitHub |
+| Push README.md to GitHub | ⬜ Optional if editing directly on GitHub |
+
+**Note:** Module 0 is effectively complete once the README is in the repo.  
+
 ## Notes
 - This repo will be updated regularly as I complete new exercises.
 - All scripts, configs, and notes are for **learning purposes**.
